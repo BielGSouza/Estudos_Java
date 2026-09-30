@@ -1,0 +1,6 @@
+Vamos explorar na prática conceitos cruciais da herança em programação orientada
+a objetos: extends, a palavra-chave indicando que uma classe herda de outra; a
+habilidade de sobrescrever métodos herdados, utilizando a anotação @Override.
+
+Além disso, vamos aplicar o conceito de polimorfismo para evitar duplicação de métodos,
+proporcionando uma estrutura de código mais eficiente e coesa.
